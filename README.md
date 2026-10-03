@@ -31,3 +31,5 @@ Make the scripts executable:
 
 ```bash
 chmod +x grade.sh *.sh
+
+This toolkit provides command-line diagnostics for Linux system, disk, and network monitoring.
