@@ -17,3 +17,10 @@ chmod +x *.sh
 
 AUTHOR
 ABULLATEEF RIDWANULLAH
+
+##files Project Structure
+- system-info.sh - Displays system information
+- disk-check.sh - Checks disk usage
+- network-check.sh - Checks network connectivity
+- grade.sh - Runs assignment tests
+- logs/ - Stores log
