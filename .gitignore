@@ -1,0 +1,5 @@
+# Ignore generated log files
+logs/*.log
+
+# Keep the logs directory in Git
+!logs/.gitkeep
