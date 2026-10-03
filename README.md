@@ -24,3 +24,10 @@ ABULLATEEF RIDWANULLAH
 - network-check.sh - Checks network connectivity
 - grade.sh - Runs assignment tests
 - logs/ - Stores log
+
+## Testing
+
+Make the scripts executable:
+
+```bash
+chmod +x grade.sh *.sh
