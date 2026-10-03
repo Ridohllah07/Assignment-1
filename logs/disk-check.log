@@ -1,0 +1,8 @@
+2026-09-28 12:04:36 | Disk check started
+2026-09-28 12:05:22 | Disk check started
+2026-09-28 12:16:22 | Disk check | Path=/ | Usage=1% | Threshold=50% | Status=OK
+2026-09-28 12:18:18 | Disk check | Path=/ | Usage=1% | Threshold=1% | Status=THRESHOLD_REACHED
+2026-09-28 12:25:46 | Disk check | Path=/ | Usage=1% | Threshold=50% | Status=OK
+2026-09-28 12:25:53 | Disk check | Path=/ | Usage=1% | Threshold=2% | Status=OK
+2026-10-02 11:16:38 | Disk check | Path=/ | Usage=1% | Threshold=100% | Status=OK
+2026-10-02 11:24:27 | Disk check | Path=/ | Usage=1% | Threshold=100% | Status=OK
